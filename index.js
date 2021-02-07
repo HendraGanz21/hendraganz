@@ -26,13 +26,13 @@ const ovo = 'gak ada'; // GANTI PAKE NOMOR OVO LU
 const pulsa = '085710041579'; // GANTI PAKE NOMOR PULSA LU
 const dana = ' gak ada'; // GANTI PAKE NOMOR DANA LU
 const gopay = '085710041579'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
+const instagram = 'http://www.instagram.com/FF.Forzy'; // GANTI IG LU
 const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
   + 'FN:HENDRA GANZ\n' // GANTI PAKE NAMA MU
   + 'ORG:HENDRA GANZ;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
-  + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
+  + 'TEL;type=CELL;type=VOICE;waid=6285710041579:+62 857-1004-1579\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
   + 'END:VCARD' // THANKS TO LANN ID
 // NOTE : UBAH YANG GUE SURUH UBAH AJA BIAR GAK ERROR
 const
