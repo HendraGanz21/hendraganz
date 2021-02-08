@@ -58,10 +58,10 @@ const option = JSON.parse(fs.readFileSync('./options/option.json'))
 const { ind } = require('./options/language')
 //const { eng } = require('./options/language')
 const {
-    botName,
-    ownerName,
+    botName,NdraaBotz
+    ownerName,Hendra
     BarBarKey,
-    ownerNumbers,
+    ownerNumbers,6285710041579
     languages
 } = option
 
@@ -94,14 +94,14 @@ const { limit } = require('./database/menu/limit')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Zan Gans\n' // full name
-            + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6282291992581:+62822-9199-2581\n' // WhatsApp ID + phone number
+            + 'FN:Ndraa Ganz\n' // full name
+            + 'ORG:Owner Bot;hendra ganz\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6285710041579:+62857-1004-1579\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 prefix = '.'
 blocked = []
 limitawal = '20'
-cr = '*Zan Ganteng Karina Cantik:V*'
+cr = '*HendraGanz:V*'
 
 // Functions
 const getLevelingXp = (userId) => {
